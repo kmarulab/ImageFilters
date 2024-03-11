@@ -1,0 +1,3 @@
+/Users/kimaru/Documents/github/ImageFilters/OpenCV_Implementation/CMakeFiles/filter.dir
+/Users/kimaru/Documents/github/ImageFilters/OpenCV_Implementation/CMakeFiles/edit_cache.dir
+/Users/kimaru/Documents/github/ImageFilters/OpenCV_Implementation/CMakeFiles/rebuild_cache.dir
